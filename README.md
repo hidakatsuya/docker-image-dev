@@ -1,6 +1,6 @@
 # Docker Images for Development
 
-This repository contains the source for Docker images that are often used mainly for development purposes.
+This repository mainly contains the source for Docker images used in development. See the respective subdirectories for details.
 
 ## License
 
