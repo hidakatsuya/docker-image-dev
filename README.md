@@ -6,7 +6,7 @@ This repository mainly contains the source for Docker images used in development
 
 ### [ruby-with-diff-pdf](/ruby-with-diff-pdf)
 
-A container with [diff-pdf](https://github.com/vslavik/diff-pdf) installed in Ruby container
+A container with [diff-pdf](https://github.com/vslavik/diff-pdf) installed in Ruby container.
 
 ## License
 
