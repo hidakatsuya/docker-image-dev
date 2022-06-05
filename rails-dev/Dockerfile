@@ -1,6 +1,4 @@
-ARG RUBY_VERSION
-
-FROM ruby:$RUBY_VERSION
+FROM ruby:3.1.0
 
 # turn off auto complete in rails console
 RUN echo 'IRB.conf[:USE_AUTOCOMPLETE] = false' > ~/.irbrc
