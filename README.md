@@ -12,6 +12,10 @@ A container with [diff-pdf](https://github.com/vslavik/diff-pdf) installed in Ru
 
 A container for running the [playwright](https://playwright.dev/docs/docker) server.
 
+### [rails-dev](/rails-dev)
+
+A container for Rails development.
+
 ## License
 
 All Dockerfiles are available under the MIT license.
