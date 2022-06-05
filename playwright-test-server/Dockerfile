@@ -5,4 +5,4 @@ WORKDIR /app
 RUN npm install @playwright/test
 RUN npx playwright install
 
-CMD ["npx", "playwright", "run-server"]
+ENTRYPOINT ["npx", "playwright", "run-server"]
