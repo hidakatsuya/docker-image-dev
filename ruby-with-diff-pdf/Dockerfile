@@ -5,7 +5,7 @@ ENV DIFF_PDF_VERSION=0.5
 WORKDIR /tmp
 
 RUN apt-get update && \
-    apt-get install --no-install-recommends -y build-essential xvfb libpoppler-glib-dev poppler-utils libwxgtk3.0-dev && \
+    apt-get install --no-install-recommends -y build-essential xvfb libpoppler-glib-dev poppler-utils libwxgtk3.0-gtk3-dev && \
     apt-get clean && \
     rm -rf /var/lib/apt/lists/*
 
