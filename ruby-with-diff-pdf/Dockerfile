@@ -1,4 +1,4 @@
-FROM ruby:3.0.2
+FROM ruby:3.2.0
 
 ENV DIFF_PDF_VERSION=0.5
 
