@@ -1,4 +1,4 @@
-FROM ruby:3.1.2
+FROM ruby:3.2.0
 
 # Install vim
 RUN apt-get update && apt-get install -y --no-install-recommends vim &&\
